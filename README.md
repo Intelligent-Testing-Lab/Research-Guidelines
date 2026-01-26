@@ -1,6 +1,6 @@
 # Research Guidelines (Public Repository)
 
-> Author: Dr Donghwan Shin (https://dshin.info)
+> Author: [Dr Donghwan Shin](https://dshin.info) | Senior Lecturer @ School of Computer Science, University of Sheffield
 
 This public repository contains research guidelines for students at various levels, from UG dissertation to MSc thesis and PhD thesis. These guidelines are designed to help students navigate the research process effectively and produce high-quality academic work.
 

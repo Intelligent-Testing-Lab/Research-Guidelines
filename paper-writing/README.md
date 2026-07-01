@@ -16,5 +16,11 @@
 - Use Personal Tone: Impersonal, passive text does not make your work more "objective"; a personal tone engages the reader better.
 - Be Concrete: Use concrete examples rather than abstract descriptions (e.g., a "red balloon" instead of an "abstract sphere").
 
-### Reference
-> Van Savage and Pamela Yeh. 2019. Novelist Cormac McCarthy’s tips on how to write a great science paper. Nature 574, 7778 (September 2019), 441–442. https://doi.org/10.1038/d41586-019-02918-5
+### Tips
+
+In terms of the structure and style, feel free to follows the references below.
+
+- `references/Approach-Evaluation-ICSE22.pdf:` A good writing of an approach paper, including the problem, the approach, and the evaluation.
+- `references/Theory-RV21.pdf`: A good writing of a theory paper, including the definitions and applications.
+
+Also, it is worth considering writing tips from a Pulitzer prizewinner (`references/Tips from a Pulitzer prizewinner.md`)
